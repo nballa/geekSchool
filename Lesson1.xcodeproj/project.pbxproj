@@ -13,6 +13,7 @@
 		1DEAC1311E68BE2B0019F8EE /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 1DEAC12F1E68BE2B0019F8EE /* Main.storyboard */; };
 		1DEAC1331E68BE2B0019F8EE /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 1DEAC1321E68BE2B0019F8EE /* Assets.xcassets */; };
 		1DEAC1361E68BE2B0019F8EE /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 1DEAC1341E68BE2B0019F8EE /* LaunchScreen.storyboard */; };
+		1DEAC13E1E68C7050019F8EE /* 1483938656.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 1DEAC13D1E68C7050019F8EE /* 1483938656.jpg */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -26,6 +27,7 @@
 		1DEAC1321E68BE2B0019F8EE /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		1DEAC1351E68BE2B0019F8EE /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		1DEAC1371E68BE2B0019F8EE /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		1DEAC13D1E68C7050019F8EE /* 1483938656.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; name = 1483938656.jpg; path = ../../../../../Downloads/1483938656.jpg; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -58,6 +60,7 @@
 		1DEAC1251E68BE2B0019F8EE /* Lesson1 */ = {
 			isa = PBXGroup;
 			children = (
+				1DEAC13D1E68C7050019F8EE /* 1483938656.jpg */,
 				1DEAC1291E68BE2B0019F8EE /* AppDelegate.h */,
 				1DEAC12A1E68BE2B0019F8EE /* AppDelegate.m */,
 				1DEAC12C1E68BE2B0019F8EE /* ViewController.h */,
@@ -140,6 +143,7 @@
 			files = (
 				1DEAC1361E68BE2B0019F8EE /* LaunchScreen.storyboard in Resources */,
 				1DEAC1331E68BE2B0019F8EE /* Assets.xcassets in Resources */,
+				1DEAC13E1E68C7050019F8EE /* 1483938656.jpg in Resources */,
 				1DEAC1311E68BE2B0019F8EE /* Main.storyboard in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
@@ -275,6 +279,7 @@
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				DEVELOPMENT_TEAM = HAVP3WRJZR;
 				INFOPLIST_FILE = Lesson1/Info.plist;
+				IPHONEOS_DEPLOYMENT_TARGET = 8.0;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				PRODUCT_BUNDLE_IDENTIFIER = com.progschool.helloworld.Lesson1;
 				PRODUCT_NAME = "$(TARGET_NAME)";
@@ -287,6 +292,7 @@
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				DEVELOPMENT_TEAM = HAVP3WRJZR;
 				INFOPLIST_FILE = Lesson1/Info.plist;
+				IPHONEOS_DEPLOYMENT_TARGET = 8.0;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				PRODUCT_BUNDLE_IDENTIFIER = com.progschool.helloworld.Lesson1;
 				PRODUCT_NAME = "$(TARGET_NAME)";
