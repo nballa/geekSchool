@@ -1,0 +1,6 @@
+framework module SAMTextField {
+  umbrella header "SAMTextField-umbrella.h"
+
+  export *
+  module * { export * }
+}

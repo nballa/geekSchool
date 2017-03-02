@@ -1,0 +1,6 @@
+framework module SAMAddressBar {
+  umbrella header "SAMAddressBar-umbrella.h"
+
+  export *
+  module * { export * }
+}

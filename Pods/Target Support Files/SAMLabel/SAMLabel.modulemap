@@ -1,0 +1,6 @@
+framework module SAMLabel {
+  umbrella header "SAMLabel-umbrella.h"
+
+  export *
+  module * { export * }
+}

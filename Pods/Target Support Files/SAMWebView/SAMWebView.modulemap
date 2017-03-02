@@ -1,0 +1,6 @@
+framework module SAMWebView {
+  umbrella header "SAMWebView-umbrella.h"
+
+  export *
+  module * { export * }
+}
